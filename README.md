@@ -2,7 +2,7 @@
 
 
 ## Guess my number game | JavaScript
-![screenshot](.\img\Screenshot_1.png)
+![screenshot](./img/Screenshot_1.png)
 
 
 ## Built With
